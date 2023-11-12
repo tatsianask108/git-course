@@ -2,4 +2,6 @@
 
 Git Git
 
-update eadme on github to train git pull
+update Readme on github to train git pull
+
+train push force
